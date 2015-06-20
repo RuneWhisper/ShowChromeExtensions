@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowChromeExtensions", "ShowChromeExtensions\ShowChromeExtensions.csproj", "{F084402C-9260-4147-A65B-C1D9DB0F647E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowChromeExtensions.ConsoleApp", "ShowChromeExtensions.Console\ShowChromeExtensions.ConsoleApp.csproj", "{7CD56BED-F487-4C75-B9F6-E98042BAD1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F084402C-9260-4147-A65B-C1D9DB0F647E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F084402C-9260-4147-A65B-C1D9DB0F647E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F084402C-9260-4147-A65B-C1D9DB0F647E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F084402C-9260-4147-A65B-C1D9DB0F647E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD56BED-F487-4C75-B9F6-E98042BAD1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD56BED-F487-4C75-B9F6-E98042BAD1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD56BED-F487-4C75-B9F6-E98042BAD1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD56BED-F487-4C75-B9F6-E98042BAD1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
